@@ -9,3 +9,7 @@ resource "aws_instance" "demo" {
     key_name = "devops-keys"
   
 }
+
+resource "" "name" {
+  
+}
